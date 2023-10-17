@@ -6,7 +6,7 @@
 
 # <h3 align="left">💻 About Me</h3>
 
-- 🌱 I’m currently learning **Data Science,Data Engineering, Docker, Angular**
+- 🌱 I’m currently learning **Data Science,Data Engineering**
 
 - 👯 I’m looking to collaborate on **projects where I can apply my skills and continue learning**
 
