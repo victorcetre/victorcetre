@@ -1,12 +1,12 @@
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 <h1 align="left">Hi 👋, I'm Victor Cetre</h1>
-<h3 align="left">I'm a Software Engineer from Colombia, passionate about the world of development. Currently, my focus is centered on backend development and data science.</h3>
+<h3 align="left">I'm a Software Engineer from Colombia, passionate about the world of development. Currently, my focus is centered on data analysis.</h3>
 </div>
 
 # <h3 align="left">💻 About Me</h3>
 
-- 🌱 I’m currently learning **Data Science,Data Engineering**
+- 🌱 I’m currently learning **Data analysis and Data Science**
 
 - 👯 I’m looking to collaborate on **projects where I can apply my skills and continue learning**
 
