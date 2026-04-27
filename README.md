@@ -12,7 +12,21 @@
 - 🤖 Interested in AI applied to business process optimization  
 - 📈 Focused on turning data into real business value
 
-# <h3 align="left">🛠Languages and Tools:</h3>
+# <h3 align="left">🚀 Projects</h3>
+
+- 📊 **Enterprise BI Dashboards (Power BI)**  
+  Designed and developed interactive dashboards for business decision-making, integrating multiple data sources and applying advanced DAX calculations.
+
+- ⚙️ **Process Automation Workflows (n8n & AuraQuantic)**  
+  Built automated workflows to streamline business processes, integrating APIs, internal systems, and RPA components.
+
+- 🔗 **Backend Services for Data Integration (.NET)**  
+  Developed and maintained backend services for data processing, integration, and reporting automation.
+
+- 🧠 **Intelligent Automation with AI**  
+  Implemented AI-based solutions for data analysis and automated report generation.
+
+# <h3 align="left">🛠Languages and Tools</h3>
 
 ### 📊 Data & BI
 <div align="left">
@@ -26,7 +40,6 @@
 <div align="left">
 <a href="https://n8n.io/" target="_blank"><img src="https://n8n.io/brandguidelines/logo-dark.svg" height="40" style="margin: 10px"/></a>
 <a href="https://www.auraquantic.com/" target="_blank"><img src="https://www.auraquantic.com/wp-content/uploads/logo-aura.webp" height="40" style="margin: 10px"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="40" style="margin: 10px"/></a>
 </div>
 
 ### 🧠 Backend & Development
@@ -40,6 +53,7 @@
 <div align="left">
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="40" style="margin: 10px"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" height="40" style="margin: 10px"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="40" style="margin: 10px"/></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" height="40" style="margin: 10px"/></a>
 </div>
 
